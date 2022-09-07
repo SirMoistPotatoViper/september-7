@@ -1,0 +1,23 @@
+body {
+  background-color: green;
+  text-align: center;
+  font-family: impact;
+}
+img {
+  width: 250px;
+  border-radius: 50%;
+  margin-top: 100px;
+  margin-bottom: 10px;
+}
+h3,
+p {
+  margin: 10px;
+  padding: 0;
+}
+p {
+  font-weight: 1px;
+}
+h4,
+p {
+  padding: -5px;
+}
